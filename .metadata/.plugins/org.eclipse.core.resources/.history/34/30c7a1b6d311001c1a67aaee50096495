@@ -1,0 +1,13 @@
+package pages;
+
+import org.openqa.selenium.WebDriver;
+
+public class SignInPage extends PageBase {
+
+	public SignInPage(WebDriver driver) {
+		super(driver);
+	}
+
+	
+	email_create
+}
